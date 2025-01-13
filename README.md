@@ -154,7 +154,7 @@ I do a simple search and look in the command line. Answer is trust-test2.kirbi
 
 ![image](https://github.com/user-attachments/assets/82c05cf9-f97b-410f-b6b3-91553dc90c86)
 
-
+End of Lab
 
 
 
